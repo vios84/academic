@@ -13,4 +13,8 @@ url_pdf = "static/Sylaj%20V.%20(2020)%20-%20Mapping%20China’s%20Belt%20and%20R
 url_project = ""
 url_slides = ""
 url_video = ""
+
+[[url_custom]]
+    name = "Custom Link"
+    url = "http://www.example.org"
 +++
