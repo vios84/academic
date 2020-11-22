@@ -24,18 +24,19 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-     url = "https://wowchemy.com/docs/install/"
-     label = "Get Started"
-     icon_pack = "fas"
-     icon = "download"
+     
   
    [[content.filter_button]]
      name = "Deep Learning"
      tag = "Deep Learning"
+     label = "View Documentation"
+     url = "https://wowchemy.com/"
   
    [[content.filter_button]]
      name = "Other"
      tag = "Demo"
+     label = "View Documentation"
+     url = "https://wowchemy.com/"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
