@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   authors = ["Visar Sylaj"]
   date = "2020"
   abstract = "An abstract..."
-  url_pdf = "static/Sylaj%20V.%20(2020)%20-%20Mapping%20China’s%20Belt%20and%20Road%20Initiative%20in%20the%20Albanian%20Media.pdf"
+  url = "https://www.researchgate.net/profile/Visar_Sylaj/publication/343656467_Mapping_China's_Belt_and_Road_Initiative_in_the_Albanian_Media_A_Corpus_Content_Analysis_Study/links/5f36bf1b458515b7291f431b/Mapping-Chinas-Belt-and-Road-Initiative-in-the-Albanian-Media-A-Corpus-Content-Analysis-Study.pdf"
   
  
   """
