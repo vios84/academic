@@ -29,13 +29,11 @@ subtitle = ""
    [[content.filter_button]]
      name = "Deep Learning"
      tag = "Deep Learning"
-     label = "View Documentation"
      url = "https://wowchemy.com/"
   
    [[content.filter_button]]
      name = "Other"
      tag = "Demo"
-     label = "View Documentation"
      url = "https://wowchemy.com/"
 
 [design]
