@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include applied linguistics, computational linguistics and corpus linguistics.
 
 interests:
-- Artificial Intelligence
+- Applied Linguistics
 - Computational Linguistics
-- Information Retrieval
+- Corpus Linguistics
 
 education:
   courses:
@@ -40,7 +40,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:visar.sylaj@gmail.com".
+  link: "mailto:visar.sylaj@gmail.com". 
+  #'/#contact'  For a direct email link, use
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
