@@ -40,8 +40,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:visar.sylaj@gmail.com". 
-  #'/#contact'  For a direct email link, use
+  link: "mailto:visar.sylaj@gmail.com"
+  #/#contact' For a direct email link, use
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Visar Sylaj is an Albanian applied linguist and sinologist. He is currently a PhD candidate of applied linguistics at the Shaanxi Normal University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. Prior to joining SNNU, he worked as head of communication and international office for the University of Medicine, Tirana. He holds a BA and an MA (with Hons.) in Linguistics from the University of Bologna. He has participated in the Visiting Program for Young Sinologists held at Shaanxi Normal University in 2016 and at Zhengzhou University in 2017. He is the author of the recent article Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study and several articles in communication analysis.
+Visar Sylaj is an Albanian sinologist and applied linguist. He is currently a PhD candidate of applied linguistics at the Shaanxi Normal University. His research interests include distributed roboticands, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. Prior to joining SNNU, he worked as head of communication and international office for the University of Medicine, Tirana. He holds a BA and an MA (with Hons.) in Linguistics from the University of Bologna. He has participated in the Visiting Program for Young Sinologists held at Shaanxi Normal University in 2016 and at Zhengzhou University in 2017. He is the author of the recent article Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study and several articles in communication analysis.
