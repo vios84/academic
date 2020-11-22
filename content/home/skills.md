@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "fa-cuttlefish"
   icon_pack = "fab"
-  name = "Corpus"
+  name = "cuttlefish"
   description = "Corpus concordancing and text analysis"  
   
 [[feature]]
