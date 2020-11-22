@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "R studio, Python"
+  description = "R studio, Python, Matplotlib, GGplot2"
   
 [[feature]]
   icon = "chart-line"
@@ -30,7 +30,13 @@ subtitle = ""
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "Corpus"
-  description = "Corpus concordancing and text analysis"  
+  description = "AntConc, Wordsmith, Sketch, LancsBox"  
+  
+[[feature]]
+  icon = "file-audio"
+  icon_pack = "fas"
+  name = "Phonetics"
+  description = "PRAAT"  
   
 [[feature]]
   icon = "camera-retro"
