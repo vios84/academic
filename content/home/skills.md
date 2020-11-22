@@ -27,7 +27,7 @@ subtitle = ""
   description = "Spss, Stata"  
   
 [[feature]]
-  icon = "atlas"
+  icon = "fa-atlas"
   icon_pack = "fas"
   name = "Corpus"
   description = "Corpus concordancing and text analysis"  
