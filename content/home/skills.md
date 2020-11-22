@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "atlas"
   icon_pack = "fas"
-  name = "Corpus analysis"
+  name = "Corpus"
   description = "Corpus concordancing and text analysis"  
   
 [[feature]]
