@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Visar Sylaj
+title: VS
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Sinologist and applied linguist
 
 # Organizations/Affiliations
 organizations:
-- name: Shaanxi Normal University
+- name: S Normal University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+VS is a PhD candidate of applied linguistics at the S N U. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
