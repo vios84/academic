@@ -29,7 +29,7 @@ This study draws on the case of the China and Albania partnership under BRI and 
 
 tags:
 - BRI, Media, Corpus analysis
-featured: true
+featured: false
 
 # links:
 # - name: ""
