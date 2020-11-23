@@ -3,11 +3,11 @@
 title: "Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study"
 authors:
 - admin
-date: "2020-06-10T00:00:00Z"
+date: "2020-06-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-10T00:00:00Z"
+publishDate: "2020-10-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
