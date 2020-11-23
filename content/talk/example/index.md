@@ -12,7 +12,7 @@ address:
   country: Albania
 
 summary: Incoming talk about Corpus linguistics on my Youtube Channel.
-abstract: "$\rm \Corpus linguistics$ Lorem ipsum *Youtube Channel* dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "*Corpus linguistics* Lorem ipsum *Youtube Channel* dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,6 +60,7 @@ projects:
 
 # Enable math on this page?
 math: true
+
 ---
 
 {{% alert note %}}
