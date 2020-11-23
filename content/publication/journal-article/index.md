@@ -3,8 +3,6 @@
 title: "Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study"
 authors:
 - admin
-author_notes:
-- "Equal contribution"
 date: "2020-06-10T00:00:00Z"
 doi: ""
 
@@ -21,7 +19,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Launched in 2013, China’s “Belt and Road Initiative” (BRI) is the largest transnational economic and trade cooperation link of the 21st century connecting 138 countries and 30 international organizations through land and maritime routes. International media has constantly covered this remarkable achievement, but the themes and narratives framing the initiative vary from one country to another and from media to media, and are shaped by countries’ characteristics. This study draws on the case of the China and Albania partnership under BRI and China-CEEC “17+1” cooperation network and applies the corpus content analysis method on the media coverage of the Belt and Road Initiative and the China and Albania cooperation in Albania.
+Abstract: Launched in 2013, China’s “Belt and Road Initiative” (BRI) is the largest transnational economic and trade cooperation link of the 21st century connecting 138 countries and 30 international organizations through land and maritime routes. International media has constantly covered this remarkable achievement, but the themes and narratives framing the initiative vary from one country to another and from media to media, and are shaped by countries’ characteristics. This study draws on the case of the China and Albania partnership under BRI and China-CEEC “17+1” cooperation network and applies the corpus content analysis method on the media coverage of the Belt and Road Initiative and the China and Albania cooperation in Albania.
 
 # Summary. An optional shortened abstract.
 This study draws on the case of the China and Albania partnership under BRI and China-CEEC “17+1” cooperation network and applies the corpus content analysis method on the media coverage of the Belt and Road Initiative and the China and Albania cooperation in Albania.
