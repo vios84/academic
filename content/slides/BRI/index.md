@@ -13,13 +13,13 @@ slides:
   highlight_style: dracula
 ---
 
-# Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study
+# China’s BRI in the Albanian Media
 
 [Article](https://www.researchgate.net/profile/Visar_Sylaj/publication/343656467_Mapping_China's_Belt_and_Road_Initiative_in_the_Albanian_Media_A_Corpus_Content_Analysis_Study/links/5f36bf1b458515b7291f431b/Mapping-Chinas-Belt-and-Road-Initiative-in-the-Albanian-Media-A-Corpus-Content-Analysis-Study.pdf) | [Raw Data](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
 ---
 
-## Features
+## Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
