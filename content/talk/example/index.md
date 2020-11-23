@@ -34,10 +34,10 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: youtube
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/VisarSylaj
+  url: https://www.youtube.com/channel/UC2bMoK77yDkdFQliq8gI9DQ?view_as=subscriber
 url_code: ""
 url_pdf: ""
 url_slides: ""
