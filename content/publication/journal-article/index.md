@@ -27,7 +27,7 @@ abstract: Launched in 2013, China’s “Belt and Road Initiative” (BRI) is th
 This study draws on the case of the China and Albania partnership under BRI and China-CEEC “17+1” cooperation network and applies the corpus content analysis method on the media coverage of the Belt and Road Initiative and the China and Albania cooperation in Albania.
 
 tags:
-- Source Themes
+- BRI, Media, Corpus analysis
 featured: false
 
 # links:
