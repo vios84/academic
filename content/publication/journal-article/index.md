@@ -4,7 +4,7 @@ title: "Mapping China’s Belt and Road Initiative in the Albanian Media: A Corp
 authors:
 - admin
 
-date: "2020-06-06"
+date: "2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
