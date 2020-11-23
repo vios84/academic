@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+# Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Article](https://www.researchgate.net/profile/Visar_Sylaj/publication/343656467_Mapping_China's_Belt_and_Road_Initiative_in_the_Albanian_Media_A_Corpus_Content_Analysis_Study/links/5f36bf1b458515b7291f431b/Mapping-Chinas-Belt-and-Road-Initiative-in-the-Albanian-Media-A-Corpus-Content-Analysis-Study.pdf) | [Raw Data](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
 ---
 
