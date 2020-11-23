@@ -20,6 +20,9 @@ interests:
 - Applied Linguistics
 - Computational Linguistics
 - Corpus Linguistics
+- Sociolinguistics
+- Discourse Analysis
+- Chinese Studies
 
 education:
   courses:
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-*Visar Sylaj* 宋伟萨 (Hanyu pinyin: sòng wěisà) is an applied linguist and <a href="https://en.wikipedia.org/wiki/Sinology" target="_blank">sinologist</a>. He is currently a PhD candidate of applied linguistics at Shaanxi Normal University. His research interests include computational linguistics, corpus linguistics and Chinese studies. Prior to joining SNNU, he worked as head of communication and international office for the University of Medicine, Tirana. He holds a BA and an MA (with Hons.) in Linguistics from the University of Bologna. He has participated in the Visiting Program for Young Sinologists held at Shaanxi Normal University in 2016 and at Zhengzhou University in 2017. 
+My name is *Visar Sylaj* and I am an <a href="https://en.wikipedia.org/wiki/Applied_linguistics" target="_blank">applied linguist</a> and <a href="https://en.wikipedia.org/wiki/Sinology" target="_blank">sinologist</a>. I am currently a PhD candidate of applied linguistics at <a href="http://english.snnu.edu.cn" target="_blank">Shaanxi Normal University</a>. My research interests include <a href="https://en.wikipedia.org/wiki/Computational_linguistics" target="_blank">computational linguistics</a>, <a href="https://en.wikipedia.org/wiki/Corpus_linguistics" target="_blank">corpus linguistics</a>, <a href="https://en.wikipedia.org/wiki/Sociolinguistics" target="_blank">sociolinguistics</a>, <a href="https://en.wikipedia.org/wiki/Discourse_analysis" target="_blank">discourse analysis</a> and <a href="https://en.wikipedia.org/wiki/Sinology" target="_blank">Chinese studies</a>. Prior to joining SNNU, I worked as head of communication and international office for the <a href="https://www.umed.edu.al" target="_blank">University of Medicine, Tirana</a>. I holds a BA and an MA (with Hons.) in Linguistics from the <a href="https://www.unibo.it" target="_blank">University of Bologna</a>. I have participated in many research activities, including the Visiting Program for Young Sinologists held at Shaanxi Normal University in 2016 and at Zhengzhou University in 2017. 
