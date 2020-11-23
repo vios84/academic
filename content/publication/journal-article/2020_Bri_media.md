@@ -1,12 +1,9 @@
 
 ---
-title: "An example journal article"
+title: "Mapping China’s Belt and Road Initiative in the Albanian Media: A Corpus Content Analysis Study"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
