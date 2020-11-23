@@ -4,11 +4,11 @@ title: "Mapping China’s Belt and Road Initiative in the Albanian Media: A Corp
 authors:
 - admin
 
-date: "2020-06"
+date: "2020-06-06"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06"
+publishDate: "2017-01-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,14 +20,16 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Launched in 2013, China’s “Belt and Road Initiative” (BRI) is the largest transnational economic and trade cooperation link of the 21st century connecting 138 countries and 30 international organizations through land and maritime routes. International media has constantly covered this remarkable achievement, but the themes and narratives framing the initiative vary from one country to another and from media to media, and are shaped by countries’ characteristics. This study draws on the case of the China and Albania partnership under BRI and China-CEEC “17+1” cooperation network and applies the corpus content analysis method on the media coverage of the Belt and Road Initiative and the China and Albania cooperation in Albania. Data composed of online news articles from Albanian public media: Albanian Telegraphic Agency (ATA) and Albanian Radio and Television (RTSH); Albanian private media: Shqiptarja.com, Gazeta Shekulli, Gazeta Panorama, Gazeta Dita, Gazeta Telegraf and Javanews; and international media in Albania: Voice of America (VOA) and China Radio International (CRI) Albania, dated between 2014 and 2019, were selected. The study suggests that the Albanian media and the international media operating in Albania have framed the BRI as a framework of cooperation and development. Similarities and differences between reports were analyzed in terms of recurrent themes and linguistic expressions used to describe the Albania and China cooperation and the perception of Belt and Road Initiative in Albania. While the Albanian public media RTSH and ATA and the Albanian private media Shqiptarja.com, Gazeta Shekulli, Gazeta Panorama, Gazeta Dita, Gazeta Telegraf, and Javanews focus on topics related to the economic and cultural aspects. The international media operating in Albania offers a different representation of China’s BRI. When representing BRI, the American media VOA focuses on political aspects. Instead, the Chinese media CRI Albania focuses on the economic and development aspects of the BRI framework.
+
+<b>Keywords</b>: Belt and Road Initiative; China; Albania; News framing; Content analysis; Corpus Analysis.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+This study draws on the case of the China and Albania partnership under BRI and China-CEEC “17+1” cooperation network and applies the corpus content analysis method on the media coverage of the Belt and Road Initiative and the China and Albania cooperation in Albania.
 
 tags:
 - BRI, Media, Corpus analysis
-featured: false
+featured: true
 
 # links:
 # - name: ""
