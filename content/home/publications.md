@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-For quickly access to publication list click here [filtering publications](./publication/).
+[Filter publications](./publication/).
 {{% /callout %}}
