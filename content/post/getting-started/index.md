@@ -49,7 +49,7 @@ personal, project, and business sites.
   - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
   - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
 
-{{< figure src="content/post/getting-started/myfirstgraph.png" title="Research" >}}
+{{< figure src="myfirstgraph.png" title="Research" >}}
 
 **Key features:**
 
