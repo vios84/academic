@@ -6,7 +6,7 @@ title: Visar Sylaj
 superuser: true
 
 # Role/position
-role: Sinologist and applied linguist
+role: Linguist and Sinologist 
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,24 @@ bio: My research interests include applied linguistics, computational linguistic
 
 interests:
 - Applied Linguistics
+- Chinese Studies
 - Computational Linguistics
 - Corpus Linguistics
 - Sociolinguistics
 - Discourse Analysis
-- Chinese Studies
+- Communication studies
+- Media Studies
+
 
 education:
   courses:
   - course: PhD candidate in Applied Linguistics
     institution: Shaanxi Normal University
     year: 2021 (on-going)
-  - course: MA in Linguistics
+  - course: M.A. in Linguistics
     institution: University of Bologna
     year: 2012
-  - course: BA in Foreign Languages
+  - course: B.A. in Foreign Languages
     institution: University of Bologna
     year: 2010
 
@@ -51,6 +54,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=R8THw3QAAAAJ&hl=en&oi=sra
+- icon: academia
+  icon_pack: ai
+  link: https://unibo.academia.edu/VisarSylaj
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3532-5940
 - icon: github
   icon_pack: fab
   link: https://github.com/vios84
@@ -73,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-My name is *Visar Sylaj* and I am an <a href="https://en.wikipedia.org/wiki/Applied_linguistics" target="_blank">applied linguist</a> and <a href="https://en.wikipedia.org/wiki/Sinology" target="_blank">sinologist</a>. I am currently a PhD candidate of applied linguistics at <a href="http://english.snnu.edu.cn" target="_blank">Shaanxi Normal University</a>. My research interests include <a href="https://en.wikipedia.org/wiki/Computational_linguistics" target="_blank">computational linguistics</a>, <a href="https://en.wikipedia.org/wiki/Corpus_linguistics" target="_blank">corpus linguistics</a>, <a href="https://en.wikipedia.org/wiki/Sociolinguistics" target="_blank">sociolinguistics</a>, <a href="https://en.wikipedia.org/wiki/Discourse_analysis" target="_blank">discourse analysis</a> and <a href="https://en.wikipedia.org/wiki/Sinology" target="_blank">Chinese studies</a>. Prior to joining SNNU, I worked as head of communication and international office for the <a href="https://www.umed.edu.al" target="_blank">University of Medicine, Tirana</a>. I received a Bachelor's and a Master's degree (with Hons.) in Linguistics from the <a href="https://www.unibo.it" target="_blank">University of Bologna</a>. I have participated in many research activities, including the Visiting Program for Young Sinologists held at Shaanxi Normal University in 2016 and at Zhengzhou University in 2017 and Beijing's prestigious forum for China Studies in 2017. 
+Hello! My name is *Visar Sylaj* and I am a linguist and <a href="https://en.wikipedia.org/wiki/Sinology" target="_blank">sinologist</a>. I am currently pursuing a PhD in applied linguistics at <a href="http://english.snnu.edu.cn" target="_blank">Shaanxi Normal University</a> (SNNU). Prior to joining SNNU, I worked as head of communication and international office at the <a href="https://www.umed.edu.al" target="_blank">University of Medicine, Tirana</a>. I received my B.A. in Foreign Languages and M.A. (with hons.) in Linguistics from the <a href="https://www.unibo.it" target="_blank">University of Bologna</a>. I have participated in many research activities, including the Visiting Program for Young Sinologists held at Shaanxi Normal University in 2016 and at Zhengzhou University in 2017 and Beijing's prestigious forum for China Studies in 2017. 
