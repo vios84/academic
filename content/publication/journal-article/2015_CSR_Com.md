@@ -28,7 +28,7 @@ abstract: This study analyzes the communication practice of corporate social res
 summary: This study analyzes the communication practice of corporate social responsibility (CSR) in Albania trying to actively endorse the engagement in social involvement, customer satisfaction, work environment, good reputation and environmental issues. 
 
 tags:
-- Source Themes
+- CSR
 featured: false
 
 # links:
