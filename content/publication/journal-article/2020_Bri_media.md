@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/profile/Visar_Sylaj/publication/343656467_Mapping_China's_Belt_and_Road_Initiative_in_the_Albanian_Media_A_Corpus_Content_Analysis_Study/links/5f36bf1b458515b7291f431b/Mapping-Chinas-Belt-and-Road-Initiative-in-the-Albanian-Media-A-Corpus-Content-Analysis-Study.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
