@@ -27,7 +27,7 @@ abstract: There is a growing interest in understanding the communication pattern
 summary: Through a corpus-assisted discourse analysis of CSR reports issued Albanian companies, this study aims to explore the similarities of communication between companies from different industries.
 
 tags:
-- Source Themes
+- CSR
 featured: false
 
 # links:
