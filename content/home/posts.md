@@ -44,14 +44,10 @@ subtitle = ""
      name = "All"
      tag = "*"
      
-  
-  
    [[content.filter_button]]
      name = "Academic"
      tag = "Academic"
      
-     
-  
    [[content.filter_button]]
      name = "Other"
      tag = "Demo"
@@ -91,9 +87,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-{{% callout note %}}
-[Filter posts](./post/).
-{{% /callout %}}
 
