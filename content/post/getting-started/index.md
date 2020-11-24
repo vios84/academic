@@ -1,16 +1,13 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'My first post'
+subtitle: 'Created in 10 minutes :rocket:'
+summary: Created a simple post in 10 minutes.
 authors:
 - admin
-- 吳恩達
 tags:
 - Academic
-- 开源
 categories:
 - Demo
-- 教程
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -34,9 +31,9 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+**A beautiful post in Hugo - over 40 _widgets_, _themes_, and _language packs_ included!**
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+personal, project, and business sites.
 
 - 👉 [**Get Started**](#install)
 - 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
@@ -52,7 +49,7 @@ projects: []
   - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
   - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://github.com/vios84/academic/blob/master/content/post/getting-started/myfirstgraph.png" title="Research" >}}
 
 **Key features:**
 
