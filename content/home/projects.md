@@ -31,7 +31,9 @@ subtitle = ""
      name = "Learning"
      tag = "Learning"
      
-     
+   [[content.filter_button]]
+     name = "Corpus"
+     tag = "Corpus"
   
    [[content.filter_button]]
      name = "Other"
