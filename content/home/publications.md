@@ -68,5 +68,10 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-[Filter publications](./publication/).
+<div class="see-all">
+      <a href="https://academicus.netlify.app/publication/">
+        See all posts
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>.
 {{% /callout %}}
