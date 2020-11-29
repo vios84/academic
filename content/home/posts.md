@@ -75,4 +75,4 @@ subtitle = ""
         See all posts here
         <i class="fas fa-angle-right"></i>
       </a>
-    </div>
+    </div>.
