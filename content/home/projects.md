@@ -24,8 +24,6 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-     
-  
   
    [[content.filter_button]]
      name = "Learning"
@@ -34,6 +32,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Corpus"
      tag = "Corpus"
+     
+   [[content.filter_button]]
+     name = "Chinese"
+     tag = "Chinese"
   
    [[content.filter_button]]
      name = "Other"
