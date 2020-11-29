@@ -67,12 +67,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
-     <div class="see-all">
+    
++++
+
+ <div class="see-all">
       <a href="https://academicus.netlify.app/post">
         See all posts
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
-+++
-
-
