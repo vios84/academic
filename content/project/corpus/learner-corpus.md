@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Chinese character "hai" (Sea)
+  caption: <span>Photo by <a href="https://unsplash.com/@jiangxulei1990?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">青 晨</a> on <a href="https://unsplash.com/s/photos/chinese?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
   focal_point: Smart
 
 links:
