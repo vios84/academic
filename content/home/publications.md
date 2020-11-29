@@ -70,7 +70,7 @@ subtitle = ""
 {{% callout note %}}
 <div class="see-all">
       <a href="https://academicus.netlify.app/publication/">
-        See all posts
+        Publications archive
         <i class="fas fa-angle-right"></i>
       </a>
     </div>.
