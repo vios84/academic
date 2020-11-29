@@ -8,7 +8,7 @@ tags:
 - Sociolinguistics
 - Linguistics
 categories:
-- Introduction
+- Introductions
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -27,7 +27,7 @@ publication_types: ["0"]
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**All about linguistics group**](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/sociolinguistics)'
   focal_point: Smart
   
 
@@ -40,6 +40,7 @@ projects: []
 ---
 
 Introduction to Sociolinguistics
+
 
 
 
