@@ -5,11 +5,10 @@ summary: Short introduction to Sociolinguistics.
 authors:
 - admin
 tags:
-- Academic
-- 开源
+- Sociolinguistics
+- Linguistics
 categories:
-- Demo
-- 教程
+- Introduction
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -42,10 +41,13 @@ projects: []
 
 Introduction to Sociolinguistics
 
-| Command           | Description                    |
-| ------------------| ------------------------------ |
-| `hugo`            | Build your website.            |
-| `hugo serve -w`   | View your website.             |
+# | Command           | Description                    |
+# | ------------------| ------------------------------ |
+# | `hugo`            | Build your website.            |
+# | `hugo serve -w`   | View your website.             |
+
+
+
 
 
 
