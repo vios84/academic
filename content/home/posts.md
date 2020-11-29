@@ -72,7 +72,7 @@ subtitle = ""
 
  <div class="see-all">
       <a href="https://academicus.netlify.app/post">
-        See all posts
+        See all posts here
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
