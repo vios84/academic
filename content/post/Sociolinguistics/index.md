@@ -28,8 +28,8 @@ publication_types: ["0"]
 image:
   placement: 2
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  preview_only: false
+  focal_point: Smart
+  
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
