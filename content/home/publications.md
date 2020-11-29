@@ -67,11 +67,11 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
+
 <div class="see-all">
       <a href="https://academicus.netlify.app/publication/">
-        Publications archive
+        See all publications here
         <i class="fas fa-angle-right"></i>
       </a>
     </div>.
-{{% /callout %}}
+
