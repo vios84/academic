@@ -31,12 +31,6 @@ subtitle = ""
     author = ""
     exclude_featured = false
     
-    <div class="see-all">
-      <a href="https://academicus.netlify.app/post">
-        See all posts
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
   
 [design]
   # Toggle between the various page layout types.
@@ -72,6 +66,13 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+     <div class="see-all">
+      <a href="https://academicus.netlify.app/post">
+        See all posts
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
 +++
 
 
