@@ -42,6 +42,8 @@ projects: []
 
 <meta name="BRITANIA DOLI NGA BE. PO ANGLISHTJA?" content="Kanë kaluar vetëm pak ditë nga nënshkrimi i marrëveshjes tregtare mes Britanisë së Madhe dhe Bashkimit Evropian dhe është kthyer përsëri në mediat britanike dilema e gjuhës angleze.">
 
+<p style="text-align:justify; text-justify: inter-character">Kanë kaluar vetëm pak ditë nga nënshkrimi i marrëveshjes tregtare mes Britanisë së Madhe dhe Bashkimit Evropian dhe është kthyer përsëri në mediat britanike dilema e gjuhës angleze.</p>
+
 <b></b>
 
 <p style="text-align:justify; text-justify: inter-character">Duke iu referuar korrespondentit për çështjet evropiane dhe skoceze Udo Seiwert-Fauti, gazeta skoceze The National dhe gazeta angleze The New European shkruajnë se, “anglishtja mund të hiqet si një gjuhë zyrtare e Bashkimit Evropian pas marrëveshjes tregtare të Brexit”.</p>
