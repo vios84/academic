@@ -14,17 +14,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied linguistics, computational linguistics and corpus linguistics.
+bio: My research interests include applied linguistics, Chinese studies and corpus linguistics.
 
 interests:
 - Applied Linguistics
 - Chinese Studies
 - Computational Linguistics
 - Corpus Linguistics
+- Cognitive Linguistics
 - Sociolinguistics
+- Language Policy and Planning
 - Discourse Analysis
 - Communication studies
-- Media Studies
 
 
 education:
