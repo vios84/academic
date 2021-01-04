@@ -40,7 +40,7 @@ projects: []
 
 <img src="https://www.hermesnews.al/860/450/articles/10000/16100/16185/WeChat%20Image_20210103164231.jpg" alt="pic" />
 
-<meta name="descri" content="<p style="text-align:justify; text-justify: inter-character">Kanë kaluar vetëm pak ditë nga nënshkrimi i marrëveshjes tregtare mes Britanisë së Madhe dhe Bashkimit Evropian dhe është kthyer përsëri në mediat britanike dilema e gjuhës angleze. </p>">
+<meta name="BRITANIA DOLI NGA BE. PO ANGLISHTJA?" content="Kanë kaluar vetëm pak ditë nga nënshkrimi i marrëveshjes tregtare mes Britanisë së Madhe dhe Bashkimit Evropian dhe është kthyer përsëri në mediat britanike dilema e gjuhës angleze.">
 
 <b></b>
 
