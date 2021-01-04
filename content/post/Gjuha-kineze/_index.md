@@ -38,6 +38,8 @@ image:
 projects: []
 ---
 
+<img src="https://www.hermesnews.al/860/450/articles/10000/16000/16048/WeChat%20Image_20201221192324.jpg" alt="pic" />
+
 <p style="text-align:justify"> Vetëm një javë më parë u çel në Pekin panairi, “Java ndërkombëtare e gjuhës kineze”. Panairi synon promovimin e gjuhës kineze dhe të sistemit akademik kinez, si dhe lidhjen e bashkëpunimeve me universitetet e tjera ndërkombëtare. Ceremonia e hapjes u mbajt në internet dhe kishte një audiencë globale prej 1600 pjesëmarrësish dhe 150 universitetesh. Në ceremoni mori pjesë zv/ministri i arsimit i Kinës, Xuejun Tian, i cili theksoi rëndësinë e mësimit të gjuhëve për të komunikuar, për të shkëmbyer kulturat dhe për të zhvilluar ekonomitë dhe bashkëpunimin mes njerëzve. Ai vuri në dukje se, “megjithëse pandemia ka kufizuar lëvizjen e njerëzve në mbarë botën, ajo nuk do të ndalë entuziazmin dhe dëshirën për të mësuar gjuhët dhe për të bashkëpunuar”.</p>
 
 <b>A po bëhet gjuha kineze një gjuhë globale?</b>
