@@ -1,7 +1,7 @@
 ---
 title: Slides
 summary: An introduction to BRI article.
-authors: []
+authors: administrative
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
