@@ -40,7 +40,9 @@ projects: []
 
 <img src="https://www.hermesnews.al/860/450/articles/10000/16100/16185/WeChat%20Image_20210103164231.jpg" alt="pic" />
 
-<p style="text-align:justify; text-justify: inter-character">Kanë kaluar vetëm pak ditë nga nënshkrimi i marrëveshjes tregtare mes Britanisë së Madhe dhe Bashkimit Evropian dhe është kthyer përsëri në mediat britanike dilema e gjuhës angleze. Duke iu referuar korrespondentit për çështjet evropiane dhe skoceze Udo Seiwert-Fauti, gazeta skoceze The National dhe gazeta angleze The New European shkruajnë se, “anglishtja mund të hiqet si një gjuhë zyrtare e Bashkimit Evropian pas marrëveshjes tregtare të Brexit”.</p>
+<p style="text-align:justify; text-justify: inter-character">Kanë kaluar vetëm pak ditë nga nënshkrimi i marrëveshjes tregtare mes Britanisë së Madhe dhe Bashkimit Evropian dhe është kthyer përsëri në mediat britanike dilema e gjuhës angleze. </p>
+
+<p style="text-align:justify; text-justify: inter-character">Duke iu referuar korrespondentit për çështjet evropiane dhe skoceze Udo Seiwert-Fauti, gazeta skoceze The National dhe gazeta angleze The New European shkruajnë se, “anglishtja mund të hiqet si një gjuhë zyrtare e Bashkimit Evropian pas marrëveshjes tregtare të Brexit”.</p>
 
 <p style="text-align:justify; text-justify: inter-character">Sipas Udo Seiwert-Fauti, “anglishtja do të jetë vetëm një gjuhë komunikimi brenda BE-së, por nuk do të përdoret më si një gjuhë zyrtare”. Por ai shton se, “anglishtja dhe frëngjishtja do të vijojnë të jenë gjuhët zyrtare të Këshillit të Evropës, pasi Britania vazhdon të jetë një shtet anëtar në Këshillin e Evropës dhe në fillim të janarit do të paguajë rreth 20 milion euro në buxhetin e saj”.</p>
 
