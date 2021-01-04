@@ -38,9 +38,9 @@ image:
 projects: []
 ---
 
-Vetëm një javë më parë u çel në Pekin panairi, “Java ndërkombëtare e gjuhës kineze”. Panairi synon promovimin e gjuhës kineze dhe të sistemit akademik kinez, si dhe lidhjen e bashkëpunimeve me universitetet e tjera ndërkombëtare. Ceremonia e hapjes u mbajt në internet dhe kishte një audiencë globale prej 1600 pjesëmarrësish dhe 150 universitetesh. Në ceremoni mori pjesë zv/ministri i arsimit i Kinës, Xuejun Tian, i cili theksoi rëndësinë e mësimit të gjuhëve për të komunikuar, për të shkëmbyer kulturat dhe për të zhvilluar ekonomitë dhe bashkëpunimin mes njerëzve. Ai vuri në dukje se, “megjithëse pandemia ka kufizuar lëvizjen e njerëzve në mbarë botën, ajo nuk do të ndalë entuziazmin dhe dëshirën për të mësuar gjuhët dhe për të bashkëpunuar”.
+<p style="text-align:justify"> Vetëm një javë më parë u çel në Pekin panairi, “Java ndërkombëtare e gjuhës kineze”. Panairi synon promovimin e gjuhës kineze dhe të sistemit akademik kinez, si dhe lidhjen e bashkëpunimeve me universitetet e tjera ndërkombëtare. Ceremonia e hapjes u mbajt në internet dhe kishte një audiencë globale prej 1600 pjesëmarrësish dhe 150 universitetesh. Në ceremoni mori pjesë zv/ministri i arsimit i Kinës, Xuejun Tian, i cili theksoi rëndësinë e mësimit të gjuhëve për të komunikuar, për të shkëmbyer kulturat dhe për të zhvilluar ekonomitë dhe bashkëpunimin mes njerëzve. Ai vuri në dukje se, “megjithëse pandemia ka kufizuar lëvizjen e njerëzve në mbarë botën, ajo nuk do të ndalë entuziazmin dhe dëshirën për të mësuar gjuhët dhe për të bashkëpunuar”.
 
-A po bëhet gjuha kineze një gjuhë globale?
+<b>A po bëhet gjuha kineze një gjuhë globale?</b>
 
 Gjuha kineze është gjuha me numrin më të lartë të folësve në botë. Ndonëse Kina është një shtet me 56 etni dhe një shumllojshmëri dialektesh, gjuha mandarine (siç njihet ndryshe gjuha zyrtare kineze) flitet nga pothuajse e gjithë popullata. Ajo flitet edhe në shtetet e tjera ku ka popullsi me origjinë kineze, si Singapori, Indonezia, Malajzia, Tajlanda etj, si dhe në shtetet ku ka diasporë kineze, si Shtetet e Bashkuara të Amerikës, Kanadaja, Australia etj. Gjuha kineze është gjithashtu një nga gjashtë gjuhët zyrtare të Organizatës së Kombeve të Bashkuara. Por, falë zhvillimit ekonomik dhe lidhjeve të shumta tregtare, kinezishtja po bëhet gjithnjë e më e rëndësishme. Edhe interesi për ta mësuar atë po rritet. Sipas të dhënave zyrtare, gjuha kineze është pjesë e programeve arsimore kombëtare në më shumë se 70 shtete, duke përfshirë Shtetet e Bashkuara të Amerikës, Mbretërinë e Bashkuar, Rusinë, Gjermaninë, Francën, Italinë, Afrikën e Jugut, Japoninë, Korenë e Jugut, Australinë etj.
 
@@ -48,8 +48,8 @@ Janë rreth 4000 universitete që ofrojnë degën e gjuhës kineze në tre cikle
 
 “Një brez një rrugë”është projekti gjigand që lidh Kinën me 138 shtete dhe bashkon 3 kontinente përmes bashkëpunimeve tregtare dhe investimeve të shumta ekonomike. Zotërimi i gjuhës kineze është me rëndësi të madhe për këto shtete, pasi u jep mundësi shtetasve të tyre që të lidhin më lehtë miqësi me kinezët, të punojnë për kompani kineze apo të bëjnë biznes ose turizëm me Kinën.
 
-A do të mund të krahasohet ndonjëherë gjuha kineze me gjuhën angleze?
+<b>A do të mund të krahasohet ndonjëherë gjuha kineze me gjuhën angleze? </b>
 
-Gjuha angleze do të vijojë të jetë edhe për shumë kohë gjuha e komunikimit ndërkombëtar dhe gjuha dominuese në shumë fusha, si ekonomia, shkenca, teknologjia etj, por zhvillimi i vazhdueshëm teknologjik dhe ekonomik i Kinës dhe interesimi i madh i studentëve në mbarë botën për të qenë pjesë e komunitetit sino-folës do të bëjnë që kinezishtja të mbetet gjithmonë një gjuhë globale në një shkallë me frëngjishten, spanjishten etj.
+Gjuha angleze do të vijojë të jetë edhe për shumë kohë gjuha e komunikimit ndërkombëtar dhe gjuha dominuese në shumë fusha, si ekonomia, shkenca, teknologjia etj, por zhvillimi i vazhdueshëm teknologjik dhe ekonomik i Kinës dhe interesimi i madh i studentëve në mbarë botën për të qenë pjesë e komunitetit sino-folës do të bëjnë që kinezishtja të mbetet gjithmonë një gjuhë globale në një shkallë me frëngjishten, spanjishten etj. </p>
 
 Artikull i publikuar në portalin Hermesnews: https://www.hermesnews.al/kulture/Gjuha-kineze-ne-bote.html
