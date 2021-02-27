@@ -33,8 +33,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://www.researchgate.net/publication/348919992_guowaiyuyanduoyangxingyupinkunguanxiyanjiu"
-url_pdf: ''
+#   url: ""
+url_pdf: https://www.researchgate.net/publication/348919992_guowaiyuyanduoyangxingyupinkunguanxiyanjiu
 url_code: ''
 url_dataset: ''
 url_poster: ''
