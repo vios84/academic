@@ -2,9 +2,11 @@
 ---
 title: "Research on international language diversity and poverty"
 authors:
+- 董洪杰
+- 周敏莉
 - admin
 
-date: "2020-10-12T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +25,7 @@ publication_short: ""
 Abstract: .
 
 # Summary. An optional shortened abstract.
-summary: Research on international language diversity and poverty (国外语言多样性与贫困关系研究).
+summary: Research on international language diversity and poverty.
 
 tags:
 - Language
