@@ -2,8 +2,6 @@
 ---
 title: "Research on international language diversity and poverty"
 authors:
-- 董洪杰
-- 周敏莉
 - admin
 
 date: "2020-10-12T00:00:00Z"
